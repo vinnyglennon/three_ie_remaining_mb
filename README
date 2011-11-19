@@ -1,0 +1,14 @@
+Works on three.ie dongles in Ireland, when ran in Ubuntu, and the computer is accessing the internet via the dongle.
+
+Usage:  
+perl retrieve_value.pl
+
+
+Returns:
+Remaining MB left on your account, also available via the three.ie website.
+
+
+Depencienes:
+sudo perl -MCPAN -e shell
+  install WWW::Mechanize
+  quit
