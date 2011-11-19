@@ -8,7 +8,7 @@ Returns:
 Remaining MB left on your account, also available via the three.ie website.
 
 
-Depencienes:
+Dependencies:
 sudo perl -MCPAN -e shell
   install WWW::Mechanize
   quit
