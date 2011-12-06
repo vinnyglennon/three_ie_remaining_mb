@@ -12,3 +12,7 @@ Dependencies:
 sudo perl -MCPAN -e shell
   install WWW::Mechanize
   quit
+
+
+# in .bashrc/alias file
+alias three='~/src/production/perl/three_ie_remaining_mb/retrieve_value.pl'
