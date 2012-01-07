@@ -3,6 +3,7 @@ use LWP::Simple;
 use WWW::Mechanize;
 use HTML::TreeBuilder;
 
+print "Visit https://my3.three.ie/ to log into system manually first"
 #secure login for three.ie , Ireland. Works when dongle is plugged in, in Ubuntu.
 my $url = 'https://my3.three.ie/';
 
